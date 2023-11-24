@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+soljson-v0.8.20+commit.8df45f5f.js
+
+# Truffle build directory
+build/
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE directories
+.idea/
+
+# User-specific directories
+.vscode/
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
